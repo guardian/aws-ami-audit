@@ -8,8 +8,8 @@
     "format": "prettier --write \"src/**/*.ts\""
   },
   "devDependencies": {
-    "@aws-sdk/client-ec2": "^3.272.0",
-    "@aws-sdk/credential-providers": "^3.272.0",
+    "@aws-sdk/client-ec2": "^3.350.0",
+    "@aws-sdk/credential-providers": "^3.351.0",
     "@guardian/eslint-config-typescript": "^4.0.0",
     "@guardian/prettier": "^3.0.0",
     "@guardian/tsconfig": "^0.2.0",
